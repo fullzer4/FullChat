@@ -20,7 +20,7 @@
       devShells = eachSystem (pkgs: {
         default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            rustup
+            deno
           ];
         };
       });
