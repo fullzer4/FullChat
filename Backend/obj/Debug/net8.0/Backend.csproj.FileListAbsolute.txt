@@ -1,0 +1,15 @@
+/home/fullzer4/Codes/FullChat/Backend/bin/Debug/net8.0/Backend
+/home/fullzer4/Codes/FullChat/Backend/bin/Debug/net8.0/Backend.deps.json
+/home/fullzer4/Codes/FullChat/Backend/bin/Debug/net8.0/Backend.runtimeconfig.json
+/home/fullzer4/Codes/FullChat/Backend/bin/Debug/net8.0/Backend.dll
+/home/fullzer4/Codes/FullChat/Backend/bin/Debug/net8.0/Backend.pdb
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.AssemblyInfoInputs.cache
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.AssemblyInfo.cs
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.csproj.CoreCompileInputs.cache
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.sourcelink.json
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.dll
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/refint/Backend.dll
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.pdb
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/Backend.genruntimeconfig.cache
+/home/fullzer4/Codes/FullChat/Backend/obj/Debug/net8.0/ref/Backend.dll
